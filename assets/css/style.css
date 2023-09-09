@@ -1,0 +1,79 @@
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.block{
+    padding: 40px;
+    text-align: center;
+    width: 300px;
+    border: 2px solid rgb(66, 70, 105);
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.h1-text{
+    color: rgb(66, 70, 105);
+}
+.inputOne{
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+.inputTwo{
+    padding: 10px 20px;
+}
+.plus{
+    
+    padding: 15px 20px;
+    background-color: rgb(66, 70, 105);
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.minus{
+    padding: 15px 20px;
+    background-color: rgb(66, 70, 105);
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.multiplication{
+    padding: 15px 20px;
+    background-color: rgb(66, 70, 105);
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.division{
+    padding: 15px 20px;
+    background-color: rgb(66, 70, 105);
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.btnResult{
+    margin-top: 10px;
+    padding: 10px 15px;
+    color: white;
+    background-color: rgb(66, 70, 105);
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 5px;
+    font-size: 20px;
+}
+.flex{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.flex-buttons{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.result{
+    color: rgb(66, 70, 105);;
+}
